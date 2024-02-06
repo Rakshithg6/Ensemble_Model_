@@ -25,4 +25,4 @@ To use the ensemble model, follow these steps:
 Check out the examples directory for sample scripts demonstrating how to use the ensemble model with different datasets and base models.
 
 ## Contributors
-- Rakshith G (https://github.com/Rakshithg6)
+- Rakshith G [Github](https://github.com/Rakshithg6)
